@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriramongithub
 - 👀 I’m interested in Learning new things.
-- 🌱 I’m currently learning more programming languages
+- 🌱 I’m currently learning front end development.
 
 <!---
 sriramongithub/sriramongithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
